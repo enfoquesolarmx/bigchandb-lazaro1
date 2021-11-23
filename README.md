@@ -1,9 +1,7 @@
 # bigchandb-lazaro1
-lazaro1 a bigchaindb 
+-- lazaro1 a bigchaindb 
+-- Instalar debian 11 
 
-Instalar debian 11 
-
-######
 sudo apt-get update
 
 sudo apt-get install \
