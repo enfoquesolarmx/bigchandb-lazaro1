@@ -1,6 +1,5 @@
 # bigchandb-lazaro1
--- lazaro1 a bigchaindb 
--- Instalar debian 11 
+
 
 sudo apt-get update
 
